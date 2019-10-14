@@ -1,5 +1,5 @@
-# ontology price gnome ticket 
+# dogecoin price gnome ticket 
 
-Gnome 3 desktop ticker for ontology price with Python and argos. Rename to ontology.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for dogecoin price with Python and argos. Rename to dogecoin.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
