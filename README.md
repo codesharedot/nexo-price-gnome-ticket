@@ -1,5 +1,5 @@
-# 0x price gnome ticket 
+# v-systems price gnome ticket 
 
-Gnome 3 desktop ticker for 0x price with Python and argos. Rename to 0x.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for v-systems price with Python and argos. Rename to v-systems.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
