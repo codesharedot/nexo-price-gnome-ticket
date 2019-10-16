@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# rename to siacoin.1r.60s.py and put in ~.config/argos
+# rename to bittorrent.1r.60s.py and put in ~.config/argos
 import re
 from gi.repository import Gio
 from datetime import datetime
@@ -9,7 +9,7 @@ import json
 import requests
 
 def coin():
-    data = requests.get("https://api.coinmarketcap.com/v1/ticker/siacoin/")
+    data = requests.get("https://api.coinmarketcap.com/v1/ticker/bittorrent/")
     price = data.json()[0]["price_usd"]
     coin_price = float(("{0:.2f}").format(float(price))) 
     return coin_price
@@ -18,7 +18,7 @@ usd = float(coin())
 lastupdate = datetime.now().strftime("%H:%M:%S")
 
 #print(" $" + str(usd) + " (" + str(lastupdate) + ") | iconName=invest-applet")
-print("siacoin $" + str(usd) + " | iconName=invest-applet")
+print("bittorrent $" + str(usd) + " | iconName=invest-applet")
 print("---")
 #print("Kraken: $" + str(usd) + " | iconName=gedit bash=gedit terminal=false")
 print("---")

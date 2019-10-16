@@ -1,5 +1,5 @@
-# siacoin price gnome ticket 
+# bittorrent price gnome ticket 
 
-Gnome 3 desktop ticker for siacoin price with Python and argos. Rename to siacoin.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for bittorrent price with Python and argos. Rename to bittorrent.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
