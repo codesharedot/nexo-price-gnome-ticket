@@ -1,5 +1,5 @@
-# bittorrent price gnome ticket 
+# bitcoin-diamond price gnome ticket 
 
-Gnome 3 desktop ticker for bittorrent price with Python and argos. Rename to bittorrent.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for bitcoin-diamond price with Python and argos. Rename to bitcoin-diamond.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
