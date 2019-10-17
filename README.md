@@ -1,5 +1,5 @@
-# hypercash price gnome ticket 
+# maidsafecoin price gnome ticket 
 
-Gnome 3 desktop ticker for hypercash price with Python and argos. Rename to hypercash.1r.60s.py and put in ~/.config/argos
+Gnome 3 desktop ticker for maidsafecoin price with Python and argos. Rename to maidsafecoin.1r.60s.py and put in ~/.config/argos
 
 https://pythonbasics.org
